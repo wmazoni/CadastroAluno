@@ -1,0 +1,17 @@
+C:\Users\wmazo\source\repos\CadastroAluno\CadastroAluno\bin\Debug\CadastroAluno.exe.config
+C:\Users\wmazo\source\repos\CadastroAluno\CadastroAluno\bin\Debug\CadastroAluno.exe
+C:\Users\wmazo\source\repos\CadastroAluno\CadastroAluno\bin\Debug\CadastroAluno.pdb
+C:\Users\wmazo\source\repos\CadastroAluno\CadastroAluno\bin\Debug\Cadastro_Aluno_Controle.dll
+C:\Users\wmazo\source\repos\CadastroAluno\CadastroAluno\bin\Debug\Cadastro_Aluno_Modelo.dll
+C:\Users\wmazo\source\repos\CadastroAluno\CadastroAluno\bin\Debug\Cadastro_Aluno_Controle.pdb
+C:\Users\wmazo\source\repos\CadastroAluno\CadastroAluno\bin\Debug\Cadastro_Aluno_Modelo.pdb
+C:\Users\wmazo\source\repos\CadastroAluno\CadastroAluno\obj\Debug\CadastroAluno.csprojAssemblyReference.cache
+C:\Users\wmazo\source\repos\CadastroAluno\CadastroAluno\obj\Debug\CadastroAluno.frmCadastroAluno.resources
+C:\Users\wmazo\source\repos\CadastroAluno\CadastroAluno\obj\Debug\CadastroAluno.Properties.Resources.resources
+C:\Users\wmazo\source\repos\CadastroAluno\CadastroAluno\obj\Debug\CadastroAluno.csproj.GenerateResource.cache
+C:\Users\wmazo\source\repos\CadastroAluno\CadastroAluno\obj\Debug\CadastroAluno.csproj.CoreCompileInputs.cache
+C:\Users\wmazo\source\repos\CadastroAluno\CadastroAluno\obj\Debug\CadastroAluno.csproj.CopyComplete
+C:\Users\wmazo\source\repos\CadastroAluno\CadastroAluno\obj\Debug\CadastroAluno.exe
+C:\Users\wmazo\source\repos\CadastroAluno\CadastroAluno\obj\Debug\CadastroAluno.pdb
+C:\Users\wmazo\source\repos\CadastroAluno\CadastroAluno\bin\Debug\aluno.mdb
+C:\Users\wmazo\source\repos\CadastroAluno\CadastroAluno\bin\Debug\Cadastro_Aluno_Controle.dll.config

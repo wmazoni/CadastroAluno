@@ -1,0 +1,6 @@
+C:\Users\wmazo\source\repos\CadastroAluno\Cadastro_Aluno_Modelo\bin\Debug\Cadastro_Aluno_Modelo.dll
+C:\Users\wmazo\source\repos\CadastroAluno\Cadastro_Aluno_Modelo\bin\Debug\Cadastro_Aluno_Modelo.pdb
+C:\Users\wmazo\source\repos\CadastroAluno\Cadastro_Aluno_Modelo\obj\Debug\Cadastro_Aluno_Modelo.csprojAssemblyReference.cache
+C:\Users\wmazo\source\repos\CadastroAluno\Cadastro_Aluno_Modelo\obj\Debug\Cadastro_Aluno_Modelo.csproj.CoreCompileInputs.cache
+C:\Users\wmazo\source\repos\CadastroAluno\Cadastro_Aluno_Modelo\obj\Debug\Cadastro_Aluno_Modelo.dll
+C:\Users\wmazo\source\repos\CadastroAluno\Cadastro_Aluno_Modelo\obj\Debug\Cadastro_Aluno_Modelo.pdb

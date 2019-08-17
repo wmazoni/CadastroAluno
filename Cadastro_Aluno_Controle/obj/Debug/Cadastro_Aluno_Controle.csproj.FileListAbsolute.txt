@@ -1,0 +1,11 @@
+C:\Users\wmazo\source\repos\CadastroAluno\Cadastro_Aluno_Controle\bin\Debug\Cadastro_Aluno_Controle.dll
+C:\Users\wmazo\source\repos\CadastroAluno\Cadastro_Aluno_Controle\bin\Debug\Cadastro_Aluno_Controle.pdb
+C:\Users\wmazo\source\repos\CadastroAluno\Cadastro_Aluno_Controle\bin\Debug\Cadastro_Aluno_Modelo.dll
+C:\Users\wmazo\source\repos\CadastroAluno\Cadastro_Aluno_Controle\bin\Debug\Cadastro_Aluno_Modelo.pdb
+C:\Users\wmazo\source\repos\CadastroAluno\Cadastro_Aluno_Controle\obj\Debug\Cadastro_Aluno_Controle.csprojAssemblyReference.cache
+C:\Users\wmazo\source\repos\CadastroAluno\Cadastro_Aluno_Controle\obj\Debug\Cadastro_Aluno_Controle.csproj.CoreCompileInputs.cache
+C:\Users\wmazo\source\repos\CadastroAluno\Cadastro_Aluno_Controle\obj\Debug\Cadastro_Aluno_Controle.csproj.CopyComplete
+C:\Users\wmazo\source\repos\CadastroAluno\Cadastro_Aluno_Controle\obj\Debug\Cadastro_Aluno_Controle.dll
+C:\Users\wmazo\source\repos\CadastroAluno\Cadastro_Aluno_Controle\obj\Debug\Cadastro_Aluno_Controle.pdb
+C:\Users\wmazo\source\repos\CadastroAluno\Cadastro_Aluno_Controle\bin\Debug\aluno.mdb
+C:\Users\wmazo\source\repos\CadastroAluno\Cadastro_Aluno_Controle\bin\Debug\Cadastro_Aluno_Controle.dll.config
